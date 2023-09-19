@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://images.cheonson.top/images/2023/04/11/_89937713.jpg',
-      name: 'Cheonson',
+      name: 'GPT4',
       description: '欢迎使用GPT4!',
     },
   }
