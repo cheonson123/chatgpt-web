@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://images.cheonson.top/images/2023/04/11/_102027309_p1.jpg',
+      avatar: 'https://images.cheonson.top/images/2023/04/11/_89937713.jpg',
       name: 'Cheonson',
-      description: 'Welcome to cheonson.top!',
+      description: '欢迎使用GPT4!',
     },
   }
 }
